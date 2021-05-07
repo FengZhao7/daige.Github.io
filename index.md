@@ -1,4 +1,4 @@
-## 带哥 永远滴神
+# 带哥 永远滴神
 
 You can use the [editor on GitHub](https://github.com/FengZhao7/daige.github.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
